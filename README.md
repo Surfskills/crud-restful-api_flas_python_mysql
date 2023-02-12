@@ -1,1 +1,1 @@
-Testing Restful APIs with using python, flask and MySQL
+Testing Restful APIs using python, flask and MySQL
